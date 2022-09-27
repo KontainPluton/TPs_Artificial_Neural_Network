@@ -13,5 +13,8 @@
 
 Practical work on the subject of artificial neural networks with numpy and PyTorch.
 
-Useful webiste : https://playground.tensorflow.org/
+Useful webistes : 
+- https://playground.tensorflow.org/
 (Allows to see the importance of hyper parameters on regression and classification problems)
+- https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf
+(Free book)
